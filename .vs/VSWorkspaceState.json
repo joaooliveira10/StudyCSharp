@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\ContosoPizza",
+    "\\ContosoPizza\\bin\\Release\\net6.0",
+    "\\ContosoPizza\\Controllers",
+    "\\ContosoPizza\\Models",
+    "\\ContosoPizza\\Services",
+    "\\mslearn-dotnet-files",
+    "\\MSL\\obj",
+    "\\MSL\\salesTotalDir"
+  ],
+  "SelectedNode": "\\ContosoPizza\\Controllers\\PizzaController.cs",
+  "PreviewInSolutionExplorer": false
+}

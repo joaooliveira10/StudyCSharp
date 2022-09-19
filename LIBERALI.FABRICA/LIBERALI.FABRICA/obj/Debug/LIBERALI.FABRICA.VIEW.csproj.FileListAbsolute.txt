@@ -1,0 +1,9 @@
+C:\Users\joao.oliveira\source\repos\LIBERALI.FABRICA\LIBERALI.FABRICA\bin\Debug\LIBERALI.FABRICA.exe.config
+C:\Users\joao.oliveira\source\repos\LIBERALI.FABRICA\LIBERALI.FABRICA\bin\Debug\LIBERALI.FABRICA.exe
+C:\Users\joao.oliveira\source\repos\LIBERALI.FABRICA\LIBERALI.FABRICA\bin\Debug\LIBERALI.FABRICA.pdb
+C:\Users\joao.oliveira\source\repos\LIBERALI.FABRICA\LIBERALI.FABRICA\obj\Debug\LIBERALI.FABRICA.VIEW.csproj.AssemblyReference.cache
+C:\Users\joao.oliveira\source\repos\LIBERALI.FABRICA\LIBERALI.FABRICA\obj\Debug\LIBERALI.FABRICA.Properties.Resources.resources
+C:\Users\joao.oliveira\source\repos\LIBERALI.FABRICA\LIBERALI.FABRICA\obj\Debug\LIBERALI.FABRICA.VIEW.csproj.GenerateResource.cache
+C:\Users\joao.oliveira\source\repos\LIBERALI.FABRICA\LIBERALI.FABRICA\obj\Debug\LIBERALI.FABRICA.VIEW.csproj.CoreCompileInputs.cache
+C:\Users\joao.oliveira\source\repos\LIBERALI.FABRICA\LIBERALI.FABRICA\obj\Debug\LIBERALI.FABRICA.exe
+C:\Users\joao.oliveira\source\repos\LIBERALI.FABRICA\LIBERALI.FABRICA\obj\Debug\LIBERALI.FABRICA.pdb

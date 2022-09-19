@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LIBERALI.FABRICA.VIEW", "LIBERALI.FABRICA\LIBERALI.FABRICA.VIEW.csproj", "{A156FBA7-6341-435A-8E05-A20606DCBE60}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LIBERALI.FABRICA.MODEL", "LIBERALI.FABRICA.MODEL\LIBERALI.FABRICA.MODEL.csproj", "{91E48EA4-9BAA-4C71-9B5C-0B7ACFAE05A8}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A156FBA7-6341-435A-8E05-A20606DCBE60}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A156FBA7-6341-435A-8E05-A20606DCBE60}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A156FBA7-6341-435A-8E05-A20606DCBE60}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A156FBA7-6341-435A-8E05-A20606DCBE60}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91E48EA4-9BAA-4C71-9B5C-0B7ACFAE05A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91E48EA4-9BAA-4C71-9B5C-0B7ACFAE05A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91E48EA4-9BAA-4C71-9B5C-0B7ACFAE05A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91E48EA4-9BAA-4C71-9B5C-0B7ACFAE05A8}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D3AA85A-07B5-4D82-9F46-1E138CD3CFEE}
+	EndGlobalSection
+EndGlobal

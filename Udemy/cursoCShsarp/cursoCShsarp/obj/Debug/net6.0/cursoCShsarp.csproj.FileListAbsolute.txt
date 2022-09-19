@@ -1,0 +1,15 @@
+C:\Users\joao.oliveira\source\repos\Udemy\cursoCShsarp\cursoCShsarp\bin\Debug\net6.0\cursoCShsarp.exe
+C:\Users\joao.oliveira\source\repos\Udemy\cursoCShsarp\cursoCShsarp\bin\Debug\net6.0\cursoCShsarp.deps.json
+C:\Users\joao.oliveira\source\repos\Udemy\cursoCShsarp\cursoCShsarp\bin\Debug\net6.0\cursoCShsarp.runtimeconfig.json
+C:\Users\joao.oliveira\source\repos\Udemy\cursoCShsarp\cursoCShsarp\bin\Debug\net6.0\cursoCShsarp.dll
+C:\Users\joao.oliveira\source\repos\Udemy\cursoCShsarp\cursoCShsarp\bin\Debug\net6.0\cursoCShsarp.pdb
+C:\Users\joao.oliveira\source\repos\Udemy\cursoCShsarp\cursoCShsarp\obj\Debug\net6.0\cursoCShsarp.csproj.AssemblyReference.cache
+C:\Users\joao.oliveira\source\repos\Udemy\cursoCShsarp\cursoCShsarp\obj\Debug\net6.0\cursoCShsarp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\joao.oliveira\source\repos\Udemy\cursoCShsarp\cursoCShsarp\obj\Debug\net6.0\cursoCShsarp.AssemblyInfoInputs.cache
+C:\Users\joao.oliveira\source\repos\Udemy\cursoCShsarp\cursoCShsarp\obj\Debug\net6.0\cursoCShsarp.AssemblyInfo.cs
+C:\Users\joao.oliveira\source\repos\Udemy\cursoCShsarp\cursoCShsarp\obj\Debug\net6.0\cursoCShsarp.csproj.CoreCompileInputs.cache
+C:\Users\joao.oliveira\source\repos\Udemy\cursoCShsarp\cursoCShsarp\obj\Debug\net6.0\cursoCShsarp.dll
+C:\Users\joao.oliveira\source\repos\Udemy\cursoCShsarp\cursoCShsarp\obj\Debug\net6.0\refint\cursoCShsarp.dll
+C:\Users\joao.oliveira\source\repos\Udemy\cursoCShsarp\cursoCShsarp\obj\Debug\net6.0\cursoCShsarp.pdb
+C:\Users\joao.oliveira\source\repos\Udemy\cursoCShsarp\cursoCShsarp\obj\Debug\net6.0\cursoCShsarp.genruntimeconfig.cache
+C:\Users\joao.oliveira\source\repos\Udemy\cursoCShsarp\cursoCShsarp\obj\Debug\net6.0\ref\cursoCShsarp.dll
